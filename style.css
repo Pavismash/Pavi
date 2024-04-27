@@ -1,0 +1,40 @@
+body{
+    background-color: skyblue;
+}
+.head{
+    color: darkblue;
+}
+#bglime{
+    background-color: yellow;
+}
+#tru{
+    color: red;
+    background-color: yellow;
+}
+p{
+    color: white;
+}
+#para{
+    color: green;
+}
+#dru{
+    color: black;
+    font-size: 40px;
+    background-color: skyblue;
+}
+span{
+    background-color: hotpink;
+    color: red;
+}
+ul li span:nth-of-type(1) {
+    background-color:hotpink;
+    color: red;
+    padding: 3px 8px;
+    border-radius: 5px;
+  }
+ol li span:nth-of-type(1) {
+    background-color: yellowgreen;
+    color: green;
+    padding: 3px 8px;
+    border-radius: 5px;
+  }
